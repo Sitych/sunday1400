@@ -1,5 +1,5 @@
 import datetime
-import time
+
 month = int(input('Enter a month: '))
 day = int(input('Enter a day: '))
 year = 2019
